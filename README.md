@@ -8,9 +8,14 @@ Collection of References to Books and Articles
 ## Python
 * [Educative.io](https://www.educative.io/courses/learn-python-3-from-scratch)
 * [www.w3resource.com](http://www.w3resource.com)
-*
+* [Anaconda - The World&#039;s Most Popular Data Science Platform](https://www.anaconda.com/)
+* 
 
-<a href="https://www.anaconda.com/" target="_blank">Anaconda - The World&#039;s Most Popular Data Science Platform</a>
 
 ## List/Scheme
 
+## Business/Management
+
+* [Lean Startup by Eric Ries](https://www.amazon.com/The-Lean-Startup-Eric-Ries-audiobook/dp/B005MM7HY8/)
+* [The Phoenix Project](https://www.amazon.com/The-Phoenix-Project-audiobook/dp/B00VATFAMI/)
+* 
