@@ -8,7 +8,8 @@ Collection of References to Books and Articles
 ## Python
 * [Educative.io](https://www.educative.io/courses/learn-python-3-from-scratch)
 * [www.w3resource.com](http://www.w3resource.com)
-* [Anaconda - The World&#039;s Most Popular Data Science Platfor](https://www.anaconda.com/)
+* <a href="https://www.anaconda.com/" target="_blank">Anaconda - The World&#039;s Most Popular Data Science Platform</a>
+*
 
 ## List/Scheme
 
