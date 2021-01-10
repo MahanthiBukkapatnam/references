@@ -19,3 +19,8 @@ Collection of References to Books and Articles
 * [Lean Startup by Eric Ries](https://www.amazon.com/The-Lean-Startup-Eric-Ries-audiobook/dp/B005MM7HY8/)
 * [The Phoenix Project](https://www.amazon.com/The-Phoenix-Project-audiobook/dp/B00VATFAMI/)
 * 
+
+## Computer Science
+
+* [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html)
+* 
