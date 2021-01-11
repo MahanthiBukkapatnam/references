@@ -37,5 +37,7 @@ Collection of References to Books and Articles
 
 ### Calculus 1, 2, 3
 * [Professor Leonard](https://www.youtube.com/user/professorleonard57)
-
+* [Jhevon Smith](https://www.youtube.com/user/Jhev1000/playlists)
+* [Math Power 4 U](http://www.mathispower4u.com/) [James Sousa on Linked In](https://www.linkedin.com/in/james-sousa-a6439143)
+* 
 
