@@ -25,3 +25,17 @@ Collection of References to Books and Articles
 * [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html)
 * [SICP Website](https://mitpress.mit.edu/sites/default/files/sicp/index.html)
 
+## Mathematics
+
+### Linear Algebra 
+* [3 Blue One Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
+* [Trevor Bazett](https://www.youtube.com/watch?v=ZKUqtErZCiU&list=PLHXZ9OQGMqxfUl0tcqPNTJsb7R6BqSLo6)
+* [Derek Banas](https://www.youtube.com/watch?v=0WDhKCPtbng)
+
+### Statistics/Probability
+* [Jeremy Balka](https://www.youtube.com/user/jbstatistics/playlists)
+
+### Calculus 1, 2, 3
+* [Professor Leonard](https://www.youtube.com/user/professorleonard57)
+
+
