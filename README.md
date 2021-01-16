@@ -2,7 +2,7 @@
 Collection of References to Books and Articles
 
 ## Programming Languages
-* [Python](pyton.md)
+* [Python](python.md)
 * [Lisp](lisp.md)
 
 ## Management
