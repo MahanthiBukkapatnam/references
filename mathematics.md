@@ -12,6 +12,7 @@
 * [Jeremy Balka](https://www.youtube.com/user/jbstatistics/playlists)
 * [YouTube: PlayList of Lectures of MITx_Probability: The Science of Uncertainty and Data](https://www.youtube.com/watch?v=OM3iEZGC2-k&list=PLG37yJ-GpNC0Y3R4WYd93u4U2TpYROkux)
 * [YouTube: Same as above?](https://www.youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6)
+* [YouTube: How this guy scored 98/100 in the MITx Probability Course](https://www.youtube.com/watch?v=kYFEbPEpeIk)
 * [YouTube: Statistics and Probability Full Course || Statistics For Data Science](https://www.youtube.com/watch?v=sbbYntt5CJk)
 
 
