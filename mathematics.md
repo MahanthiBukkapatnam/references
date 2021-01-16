@@ -15,6 +15,7 @@
 * [YouTube: How this guy scored 98/100 in the MITx Probability Course](https://www.youtube.com/watch?v=kYFEbPEpeIk)
 * [Statistics - A Full University Course on Data Science Basics by Monika Wahi](https://www.youtube.com/watch?v=xxpc-HPKN28)
 * [Professor Leonard - Statistics](https://www.youtube.com/watch?v=9FtHB7V14Fo&list=PL5102DFDC6790F3D0)
+* [ILectureOnline](https://www.youtube.com/playlist?list=PLX2gX-ftPVXUWwTzAkOhBdhplvz0fByqV)
 
 # Data Science
 * [YouTube: Statistics and Probability Full Course || Statistics For Data Science](https://www.youtube.com/watch?v=sbbYntt5CJk)
