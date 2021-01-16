@@ -8,6 +8,9 @@
 * [Math Power 4 U](http://www.mathispower4u.com/) [James Sousa on Linked In](https://www.linkedin.com/in/james-sousa-a6439143)
 * 
 
+# Logic
+* [forallx](https://www.fecundity.com/logic/)
+
 # Statistics/Probability
 * [Jeremy Balka](https://www.youtube.com/user/jbstatistics/playlists)
 * [YouTube: PlayList of Lectures of MITx_Probability: The Science of Uncertainty and Data](https://www.youtube.com/watch?v=OM3iEZGC2-k&list=PLG37yJ-GpNC0Y3R4WYd93u4U2TpYROkux)
