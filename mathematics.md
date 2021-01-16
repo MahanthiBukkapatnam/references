@@ -13,6 +13,8 @@
 * [YouTube: PlayList of Lectures of MITx_Probability: The Science of Uncertainty and Data](https://www.youtube.com/watch?v=OM3iEZGC2-k&list=PLG37yJ-GpNC0Y3R4WYd93u4U2TpYROkux)
 * [YouTube: Same as above?](https://www.youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6)
 * [YouTube: How this guy scored 98/100 in the MITx Probability Course](https://www.youtube.com/watch?v=kYFEbPEpeIk)
+* [Statistics - A Full University Course on Data Science Basics by Monika Wahi](https://www.youtube.com/watch?v=xxpc-HPKN28)
+* [Professor Leonard - Statistics](https://www.youtube.com/watch?v=9FtHB7V14Fo&list=PL5102DFDC6790F3D0)
 
 # Data Science
 * [YouTube: Statistics and Probability Full Course || Statistics For Data Science](https://www.youtube.com/watch?v=sbbYntt5CJk)
