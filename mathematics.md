@@ -13,9 +13,9 @@
 * [YouTube: PlayList of Lectures of MITx_Probability: The Science of Uncertainty and Data](https://www.youtube.com/watch?v=OM3iEZGC2-k&list=PLG37yJ-GpNC0Y3R4WYd93u4U2TpYROkux)
 * [YouTube: Same as above?](https://www.youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6)
 * [YouTube: How this guy scored 98/100 in the MITx Probability Course](https://www.youtube.com/watch?v=kYFEbPEpeIk)
-* [YouTube: Statistics and Probability Full Course || Statistics For Data Science](https://www.youtube.com/watch?v=sbbYntt5CJk)
 
 # Data Science
+* [YouTube: Statistics and Probability Full Course || Statistics For Data Science](https://www.youtube.com/watch?v=sbbYntt5CJk)
 * [Statistics for Data Science | Probability and Statistics | Statistics Tutorial | Ph.D. (Stanford)](https://www.youtube.com/watch?v=Vfo5le26IhY)
 * [Statistics Course for Data Science | Statistics Course for Data Analytics | MarinStatsLectures](https://www.youtube.com/watch?v=AN3UkzE3HMg&list=PLqzoL9-eJTNBZDG8jaNuhap1C9q6VHyVa)
 
