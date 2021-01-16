@@ -15,6 +15,9 @@
 * [YouTube: How this guy scored 98/100 in the MITx Probability Course](https://www.youtube.com/watch?v=kYFEbPEpeIk)
 * [YouTube: Statistics and Probability Full Course || Statistics For Data Science](https://www.youtube.com/watch?v=sbbYntt5CJk)
 
+# Data Science
+* [Statistics for Data Science | Probability and Statistics | Statistics Tutorial | Ph.D. (Stanford)](https://www.youtube.com/watch?v=Vfo5le26IhY)
+
 
 # Linear Algebra
 * [3 Blue One Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
