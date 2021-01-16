@@ -17,7 +17,7 @@
 
 # Data Science
 * [Statistics for Data Science | Probability and Statistics | Statistics Tutorial | Ph.D. (Stanford)](https://www.youtube.com/watch?v=Vfo5le26IhY)
-
+* [Statistics Course for Data Science | Statistics Course for Data Analytics | MarinStatsLectures](https://www.youtube.com/watch?v=AN3UkzE3HMg&list=PLqzoL9-eJTNBZDG8jaNuhap1C9q6VHyVa)
 
 # Linear Algebra
 * [3 Blue One Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
