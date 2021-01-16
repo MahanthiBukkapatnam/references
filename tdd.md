@@ -2,6 +2,7 @@
 
 ## Refactoring
 * [Refactoring - First Edition](https://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672/)
+* [Video Store - Kata](https://elearning.industriallogic.com/gh/submit?Action=PageAction&album=kata&path=kata/videoStore/solution&devLanguage=Java)
 * [Refactoring - Second Edition](https://www.amazon.com/Refactoring-Improving-Existing-Addison-Wesley-Signature/dp/0134757599/)
 
 ## Legacy Code
