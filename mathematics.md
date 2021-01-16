@@ -9,7 +9,7 @@
 * 
 
 # Logic
-* [forallx](https://www.fecundity.com/logic/)
+* [Logic Primer by Colin Allen and Michael Hand : forallx](https://www.fecundity.com/logic/)
 
 # Statistics/Probability
 * [Jeremy Balka](https://www.youtube.com/user/jbstatistics/playlists)
