@@ -10,6 +10,7 @@
 
 # Statistics/Probability
 * [Jeremy Balka](https://www.youtube.com/user/jbstatistics/playlists)
+* [YouTube PlayList of Lectures of MITx_Probability: The Science of Uncertainty and Data](https://www.youtube.com/watch?v=OM3iEZGC2-k&list=PLG37yJ-GpNC0Y3R4WYd93u4U2TpYROkux)
 
 # Linear Algebra
 * [3 Blue One Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
