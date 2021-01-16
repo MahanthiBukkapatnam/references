@@ -18,6 +18,8 @@
 * [YouTube: Statistics and Probability Full Course || Statistics For Data Science](https://www.youtube.com/watch?v=sbbYntt5CJk)
 * [Statistics for Data Science | Probability and Statistics | Statistics Tutorial | Ph.D. (Stanford)](https://www.youtube.com/watch?v=Vfo5le26IhY)
 * [Statistics Course for Data Science | Statistics Course for Data Analytics | MarinStatsLectures](https://www.youtube.com/watch?v=AN3UkzE3HMg&list=PLqzoL9-eJTNBZDG8jaNuhap1C9q6VHyVa)
+* [probability and statistics for data science - Udemy?](https://www.youtube.com/playlist?list=PLKhIyg7HglikW9E83pxIv2VFZVa-DxlKB)
+
 
 # Linear Algebra
 * [3 Blue One Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
