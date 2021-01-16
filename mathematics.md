@@ -1,7 +1,7 @@
 
-#Proofs
+# Proofs
 
-#Calculus
+# Calculus
 
 * [Professor Leonard](https://www.youtube.com/user/professorleonard57)
 * [Jhevon Smith](https://www.youtube.com/user/Jhev1000/playlists)
@@ -11,14 +11,14 @@
 # Statistics/Probability
 * [Jeremy Balka](https://www.youtube.com/user/jbstatistics/playlists)
 
-#Linear Algebra
+# Linear Algebra
 * [3 Blue One Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
 * [Trevor Bazett](https://www.youtube.com/watch?v=ZKUqtErZCiU&list=PLHXZ9OQGMqxfUl0tcqPNTJsb7R6BqSLo6)
 * [Derek Banas](https://www.youtube.com/watch?v=0WDhKCPtbng)
 
-#Discrete Mathematics
+# Discrete Mathematics
 
-#Graph Theory
+# Graph Theory
 
-#Algorithms
+# Algorithms
 
