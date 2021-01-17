@@ -31,6 +31,11 @@
 * [3 Blue One Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
 * [Trevor Bazett](https://www.youtube.com/watch?v=ZKUqtErZCiU&list=PLHXZ9OQGMqxfUl0tcqPNTJsb7R6BqSLo6)
 * [Derek Banas](https://www.youtube.com/watch?v=0WDhKCPtbng)
+* NPTEL - Linear Algebra Courses
+  * [Basic Linear Algebra](https://nptel.ac.in/courses/111/101/111101115/)
+  * [Introduction to Abstract and Linear Algebra](https://nptel.ac.in/courses/111/105/111105112/)
+  * [Linear Algebra by AK Lal](https://nptel.ac.in/courses/111/104/111104137/)
+  * [Linear Algebra by Pranav Haridas](https://nptel.ac.in/courses/111/106/111106135/)
 
 # Discrete Mathematics
 
