@@ -13,3 +13,7 @@
 * [NPTEL - ACM Summer School on Data Sciences (Goa 2018)](https://nptel.ac.in/courses/128/106/128106002/)
 *
 
+# Data Sets
+* [UC Irvine Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets.php)
+* [Johns Hopkins Data Archive](https://archive.data.jhu.edu/)
+* []()
