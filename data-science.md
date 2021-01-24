@@ -11,7 +11,7 @@
   * [Deep Learning - Part 2](https://nptel.ac.in/courses/106/106/106106201/)
 * [NPTEL - ACM Summer School on Algorithmic and Theoretical Aspects of Machine Learning](https://nptel.ac.in/courses/128/106/128106011/)
 * [NPTEL - ACM Summer School on Data Sciences (Goa 2018)](https://nptel.ac.in/courses/128/106/128106002/)
-* [Machine Learning Mastery](https://machinelearningmastery.com/)
+* [Machine Learning Mastery by Jason Brownlee PhD](https://machinelearningmastery.com/)
 * [Machine Learning Algorithms](https://www.hebergementwebs.com/article/machine-learning-with-python)
 
 # Data Sets
